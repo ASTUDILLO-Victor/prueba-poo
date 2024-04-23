@@ -17,7 +17,7 @@ class Usuario{
         $sql = "INSERT INTO pru  VALUES ('$ce', '$nombre', '$ape')";
 
         if ($conn->query($sql) === TRUE) {
-            echo "Usuario registrado exitosamente";
+            header("Location: ../idex.php");
         } else {
             echo "Error al registrar el usuario: " . $conn->error;
         }
