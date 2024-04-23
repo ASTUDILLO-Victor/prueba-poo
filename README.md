@@ -36,6 +36,4 @@ FORMULARIO             |  CARPETAS          |  BASE DE DATOS
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/víctor-astudillo-a7350320a)
-
-
+[![Share on LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/v%C3%ADctor-astudillo-a7350320a/)
